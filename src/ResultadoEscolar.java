@@ -5,6 +5,6 @@ public class ResultadoEscolar {
     int nota=10;
 
     String resultado = nota >=6 ? "Aprovado!" : "Reprovado!";
-        System.out.println("O resultado final após avaliação é:" + resultado);
+        System.out.println("O resultado final após avaliação é !:" + resultado);
     }
 }
